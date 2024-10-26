@@ -1,4 +1,5 @@
 # Association Rules
+
 ## 1. Introduction to Association Rules:
 Association Rule Mining is a powerful technique used to discover interesting relationships or correlations between items in large datasets. It is commonly used in market basket analysis to identify product associations in retail transactions. The key idea is to find patterns of the form If-Then (e.g., "If a customer buys item A, they are likely to buy item B").
 
